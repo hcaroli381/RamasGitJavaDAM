@@ -17,5 +17,6 @@ public class Main {
 		System.out.printf("%d %d %d %d %d Reintegro : %d", numeroPrincipal0, numeroPrincipal1, numeroPrincipal2,
 				numeroPrincipal3, numeroPrincipal4, reintegro);
 
+		System.out.println("¡Buena suerte en el sorteo!");
 	}
 }
